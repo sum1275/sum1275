@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sumit Kumar Sinha</h1>
 <h3 align="center">FullStack developer with expertise in MEAN & MERN Stack. Passionate about building elegant and user-friendly web applications. Also an avid chess player.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sum1275&label=Profile%20views&color=0e75b6&style=flat" alt="sum1275" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sumitku01036495" target="blank"><img src="https://img.shields.io/twitter/follow/sumitku01036495?logo=twitter&style=for-the-badge" alt="sumitku01036495" /></a> </p>

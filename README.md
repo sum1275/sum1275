@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **React, Angular & Next.js**
 
-- 📫 How to reach me **sumiysinha215@gmail.com**
+- 📫 How to reach me **sumitsinha215@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Next.js & Kubernetes**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-v2-eight.vercel.app/])
+- 👨‍💻 All of my projects are available at ([https://my-portfolio-v2-eight.vercel.app/])
 
 - 💬 Ask me about **React, Angular & Next.js**
 
